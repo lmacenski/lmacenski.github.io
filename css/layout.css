@@ -34,14 +34,14 @@ body {
 
 #portfolio-header {
   display: flex;
-  gap: 20px;
+  gap: 29px;
   align-items: center;
 }
 
 #portfolio-header-image-container {
   display: flex;
   flex-direction: column;
-  gap: 10px;
+  gap: 15px;
   flex-basis: 50%;
 }
 
@@ -53,7 +53,7 @@ body {
 #portfolio-header-text-container {
   display: flex;
   flex-direction: column;
-  gap: 34px;
+  gap: 30px;
   flex-basis: 50%;
 }
 
@@ -71,7 +71,7 @@ body {
 .about-section-content {
   display: flex;
   flex-direction: column;
-  gap: 34px;
+  gap: 20px;
 }
 
 
